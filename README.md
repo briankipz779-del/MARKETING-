@@ -1,5 +1,5 @@
 # MARKETING-
-README: Marketing Basics
+ Marketing Basics
 
 Marketing is how you get the right people to notice, trust, and buy what you’re offering. It’s not just ads - it’s the whole path from problem to purchase.
 
